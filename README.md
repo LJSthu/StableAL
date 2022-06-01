@@ -11,7 +11,7 @@ Here are some tunable parameters in the data generation, including:
 * $n_2$: the number of training data points for environment one
 * $n_3$: the number of training data points for the other environments
 * $r$: the $r$ of the major training environment
-* $r\_list$: the $r$s of the other environments
+* r_list: the $r$ of the other environments
 
 
 #### Stable Adversarial Algorithm Details
